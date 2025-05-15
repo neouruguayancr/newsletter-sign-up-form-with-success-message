@@ -18,7 +18,7 @@ Users should be able to:
 
 ### 📸 Screenshot
 
-![Screenshot of the solution](./images/newsletter-cta.PNG)
+![Screenshot of the solution](./assets/images/newsletter-cta.PNG)
 
 ### 🔗 Links
 
