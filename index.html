@@ -13,6 +13,10 @@
 
     <div class="newsletter-cta">
       <picture>
+        <source
+          media="(min-width: 650px)"
+          srcset="assets/images/illustration-sign-up-desktop.svg"
+        >
         <img src="assets/images/illustration-sign-up-mobile.svg" alt>
       </picture>
 
@@ -25,8 +29,9 @@
           <li>And much more!</li>
         </ul>
         <form action>
-          <div class="form-group">
+          <div class="form-group with-error-field">
             <label for="email">Email address</label>
+            <span class="error">Email address required</span>
             <input type="email" id="email" placeholder="email@company.com">
           </div>
           <button class="button">Suscribe to monthly newsletter</button>
