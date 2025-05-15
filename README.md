@@ -1,6 +1,6 @@
 # 📬 Newsletter Sign-Up Form with Success Message
 
-This is a solution to the [Newsletter Sign-Up Form with Success Message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). The goal was to build a responsive newsletter sign-up form that closely matches the provided design.
+This is a solution to the [Newsletter Sign-Up Form with Success Message challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/newsletter-sign-up-4XCgQSjaZi). The goal was to build a responsive newsletter sign-up form that closely matches the provided design.
 
 ## 🚀 Overview
 
@@ -18,11 +18,11 @@ Users should be able to:
 
 ### 📸 Screenshot
 
-![Screenshot of the solution](./preview.jpg)
+![Screenshot of the solution](./images/newsletter-cta.PNG)
 
 ### 🔗 Links
 
-- Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-F0qSUK95jx)
+- Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/newsletter-sign-up-4XCgQSjaZi)
 - Live Site URL: [Live Demo](https://newsletter-sign-up-form-with-success-message-gamma.vercel.app/)
 
 ## 🔧 My Process
