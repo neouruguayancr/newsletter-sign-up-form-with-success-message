@@ -18,8 +18,7 @@ Users should be able to:
 
 ### 📸 Screenshot
 
-![Screenshot of the solution](https://raw.githubusercontent.com/neouruguayancr/newsletter-sign-up-form-with-success-message/main/assets/images/newsletter-cta.PNG)
-
+![Screenshot of the solution](./assets/images/newsletter-cta.PNG)
 
 ### 🔗 Links
 
